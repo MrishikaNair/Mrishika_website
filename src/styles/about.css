@@ -1,0 +1,230 @@
+body {
+    margin: 0;
+    background-color: #000000;
+    
+    
+  }
+  .cont{
+    height:10px;
+    
+    width:600px;
+    
+  }
+  .ab{
+    position: relative;
+    margin-top:870px;
+    margin-left:90px;
+   
+    background: -webkit-linear-gradient(#F5A5A5, rgb(72, 44, 44));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 70px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: lighter;
+  }
+  .mb{
+    position: relative;
+    margin-top:600px;
+    margin-left:90px;
+    background: -webkit-linear-gradient(#F5A5A5, rgb(72, 44, 44));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 70px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: lighter;
+  }
+  .text{
+    position: relative;
+    margin-top:80px;
+    margin-left:90px;
+    font-size: 20px;
+    color: #949494;
+    font-family: 'Inter', sans-serif;
+    text-align:justify;
+    line-height: 1.4;
+
+  }
+  .one:hover{
+    position: absolute;
+    margin-top:-418px;
+    margin-left:320px;
+    font-size: 200px;
+    color: #000000;
+    font-family: 'Inter', sans-serif;
+    text-align:justify;
+    line-height: 1.4;
+    transition: 1s;
+
+  }
+  .hide {
+    display: none;
+    opacity:0.8;
+    font-size:30px;
+    
+  }
+  .one{
+    position: absolute;
+    margin-top:-365px;
+    margin-left:335px;
+    font-size: 150px;
+    color: #000000;
+    font-family: 'Inter', sans-serif;
+    text-align:justify;
+    line-height: 1.4;
+    
+
+  }
+  .one:hover + .hide {
+    position: absolute;
+    margin-top:-70px;
+    margin-left:200px;
+    display: block;
+    color: rgb(194, 159, 159);
+    text-align:center;
+    font-family: 'Inter', sans-serif;
+    width:350px;
+    line-height: 1.6;
+    
+    
+    transition: 1s ease;
+  }
+  .two:hover{
+    position: absolute;
+    margin-top:-365px;
+    margin-left:495px;
+    font-size: 200px;
+    color: #000000;
+    font-family: 'Inter', sans-serif;
+    text-align:justify;
+    line-height: 1.4;
+    transition: 1s;
+
+  }
+  .two{
+    position: absolute;
+    margin-top:-346px;
+    margin-left:510px;
+    font-size: 150px;
+    color: #000000;
+    font-family: 'Inter', sans-serif;
+    text-align:justify;
+    line-height: 1.4;
+    
+
+  }
+  .two:hover + .hide {
+    position: absolute;
+    margin-top:-500px;
+    margin-left:350px;
+    display: block;
+    color: rgb(194, 159, 159);
+    text-align:center;
+    width:400px;
+    line-height: 1.6;
+  }
+  .three:hover{
+    position: absolute;
+    margin-top:-420px;
+    margin-left:670px;
+    font-size: 200px;
+    color: #000000;
+    font-family: 'Inter', sans-serif;
+    text-align:justify;
+    line-height: 1.4;
+    transition: 1s;
+
+  }
+  .three{
+    position: absolute;
+    margin-top:-380px;
+    margin-left:685px;
+    font-size: 150px;
+    color: #000000;
+    font-family: 'Inter', sans-serif;
+    text-align:justify;
+    line-height: 1.4;
+    line-height: 1.6;
+
+  }
+  .three:hover + .hide {
+    position: absolute;
+    margin-top:-40px;
+    margin-left:530px;
+    display: block;
+    color: rgb(194, 159, 159);
+    text-align:center;
+    font-family: 'Inter', sans-serif;
+    width:380px;
+  }
+  .four:hover{
+    position: absolute;
+    margin-top:-375px;
+    margin-left:835px;
+    font-size: 200px;
+    color: #000000;
+    font-family: 'Inter', sans-serif;
+    text-align:justify;
+    line-height: 1.4;
+    transition: 1s;
+
+  }
+  .four{
+    position: absolute;
+    margin-top:-346px;
+    margin-left:850px;
+    font-size: 150px;
+    color: #000000;
+    font-family: 'Inter', sans-serif;
+    text-align:justify;
+    line-height: 1.4;
+
+  }
+  .four:hover + .hide {
+    position: absolute;
+    margin-top:-540px;
+    margin-left:740px;
+    display: block;
+    color: rgb(194, 159, 159);
+    text-align:center;
+    width:400px;
+    line-height: 1.6;
+  }
+  .five:hover{
+    position: absolute;
+    margin-top:-265px;
+    margin-left:1010px;
+    font-size: 200px;
+    color: #000000;
+    font-family: 'Inter', sans-serif;
+    text-align:justify;
+    line-height: 1.4;
+    transition: 1s;
+
+  }
+  .five{
+    position: absolute;
+    margin-top:-246px;
+    margin-left:1025px;
+    font-size: 150px;
+    color: #000000;
+    font-family: 'Inter', sans-serif;
+    text-align:justify;
+    line-height: 1.4;
+
+  }
+  .five:hover + .hide {
+    position: absolute;
+    margin-top:-425px;
+    margin-left:870px;
+    display: block;
+    color: rgb(194, 159, 159);
+    text-align:center;
+    width:350px;
+    line-height: 1.6;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
