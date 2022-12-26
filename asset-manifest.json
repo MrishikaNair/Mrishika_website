@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/mrishika_website/static/css/main.906298d9.css",
+    "main.js": "/mrishika_website/static/js/main.ac2a55dd.js",
+    "static/js/787.1ed0c42c.chunk.js": "/mrishika_website/static/js/787.1ed0c42c.chunk.js",
+    "static/media/hexagons.png": "/mrishika_website/static/media/hexagons.68d1edcde09181e56417.png",
+    "static/media/toggle.png": "/mrishika_website/static/media/toggle.6fc3e0c113480a529eef.png",
+    "static/media/port-blacksemi.png": "/mrishika_website/static/media/port-blacksemi.24570d78797d7f1b2574.png",
+    "static/media/home-abs.png": "/mrishika_website/static/media/home-abs.b8a0c8f53fc656f18f33.png",
+    "static/media/port-pinksemi.png": "/mrishika_website/static/media/port-pinksemi.d4c2ddd568b8e3aad651.png",
+    "static/media/home-black.png": "/mrishika_website/static/media/home-black.23c5d203caf2f0576508.png",
+    "static/media/graphb.png": "/mrishika_website/static/media/graphb.20228d7f2468e4aeba57.png",
+    "static/media/hi.png": "/mrishika_website/static/media/hi.1d9dbfb3e6a4de763452.png",
+    "static/media/soweasy.jpeg": "/mrishika_website/static/media/soweasy.2876b085ab8e00f91a79.jpeg",
+    "static/media/email.png": "/mrishika_website/static/media/email.d078a25005474816ef76.png",
+    "static/media/portback.jpeg": "/mrishika_website/static/media/portback.5307010d28bad029a06a.jpeg",
+    "static/media/Journal.jpeg": "/mrishika_website/static/media/Journal.38a5f62af858f2d68af0.jpeg",
+    "static/media/graphp.png": "/mrishika_website/static/media/graphp.a0c08e8b706c922de31b.png",
+    "static/media/Myself.jpeg": "/mrishika_website/static/media/Myself.620c1e9bcae059d0ee19.jpeg",
+    "static/media/illustrations.jpeg": "/mrishika_website/static/media/illustrations.eedb58a044af942fa347.jpeg",
+    "static/media/logomk.jpeg": "/mrishika_website/static/media/logomk.b64b516b3df5e33b58bc.jpeg",
+    "static/media/insta.jpeg": "/mrishika_website/static/media/insta.55ab628f77ea48105d1a.jpeg",
+    "static/media/mail.jpeg": "/mrishika_website/static/media/mail.8f26ebafc38efbb80608.jpeg",
+    "static/media/logos.jpeg": "/mrishika_website/static/media/logos.4dd85eda7078fcfef721.jpeg",
+    "static/media/linkedin.jpeg": "/mrishika_website/static/media/linkedin.4c348dce9289d28e4f9a.jpeg",
+    "static/media/Soweasylogo.png": "/mrishika_website/static/media/Soweasylogo.e541a92735e34f460d81.png",
+    "index.html": "/mrishika_website/index.html",
+    "main.906298d9.css.map": "/mrishika_website/static/css/main.906298d9.css.map",
+    "main.ac2a55dd.js.map": "/mrishika_website/static/js/main.ac2a55dd.js.map",
+    "787.1ed0c42c.chunk.js.map": "/mrishika_website/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.906298d9.css",
+    "static/js/main.ac2a55dd.js"
+  ]
+}
