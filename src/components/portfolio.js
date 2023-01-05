@@ -29,7 +29,7 @@ function Portfolio(){
         <section id="navbar">
           
       
-            {/*<Link to="/alogin"><Button>About</Button></Link>*/}
+            
             <br></br>
           
             <Link to="/"><button class="navbut">ABOUT</button></Link>
