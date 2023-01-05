@@ -4,9 +4,7 @@ import './styles/about.css';
 import Back from './assets/home-black.png';
 import Girl from './assets/home-abs.png';
 import Logo from './assets/logomk.jpeg';
-import About from './components/about.js';
-import Skills from './components/skills.js';
-import Portfolio from './components/portfolio.js';
+
 import Hex from './assets/hexagons.png';
 import Me from './assets/Myself.jpeg';
 
