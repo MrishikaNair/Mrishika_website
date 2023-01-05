@@ -6,7 +6,6 @@ import '../styles/navbar.css';
 
 import Logo from '../assets/logomk.jpeg';
 
-import{Link} from "react-router-dom";
 function About() {
     return (
       <>
